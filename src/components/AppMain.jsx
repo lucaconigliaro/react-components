@@ -1,6 +1,7 @@
 import BlogCard from "./BlogCard"
 
 function AppMain() {
+
     return (
         <main>
             <div className="container">

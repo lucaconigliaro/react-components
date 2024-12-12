@@ -2,6 +2,7 @@ import style from "./BlogCard.module.css"
 import ButtonCard from "./ButtonCard"
 
 function BlogCard() {
+
     return (
         <div className={style.card}>
             <div className="card-image">

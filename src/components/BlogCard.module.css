@@ -1,12 +1,12 @@
 .card {
     background-color: white;
-    border-radius:.5rem;
+    border-radius: .5rem;
 
 }
 
 .card img {
-border-radius: .5rem .5rem 0 0 ;  
-height: auto;  
+    border-radius: .5rem .5rem 0 0;
+    height: auto;
 }
 
 .content {

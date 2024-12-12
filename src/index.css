@@ -14,6 +14,9 @@ body {
   background-color: lightgray;
 }
 
+main {
+  min-height: 85vh;
+}
 
 /* LAYOUT */
 .container {
@@ -41,6 +44,7 @@ body {
 .mb-2 {
   margin-bottom: 2rem;
 }
+
 .text-center {
   text-align: center;
 }
